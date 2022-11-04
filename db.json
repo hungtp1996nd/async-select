@@ -1,0 +1,42 @@
+{
+    "items": [
+        {
+            "name": "Item1",
+            "id": 1
+        },
+        {
+            "name": "Item2",
+            "id": 2
+        },
+        {
+            "name": "Item3",
+            "id": 3
+        },
+        {
+            "name": "Item4",
+            "id": 4
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project1",
+            "id": 1,
+            "itemId": 1
+        },
+        {
+            "name": "Project2",
+            "id": 2,
+            "itemId": 1
+        },
+        {
+            "name": "Project3",
+            "id": 3,
+            "itemId": 2
+        },
+        {
+            "name": "Project4",
+            "id": 4,
+            "itemId": 2
+        }
+    ]
+}
